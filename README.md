@@ -206,3 +206,8 @@ Bags, Beauty, Books, Clothing, Electronics, Footwear, Health, Home Decor, Kitche
 
 ### Payment Methods
 UPI, Credit Card, Debit Card, COD, Net Banking, Wallet
+
+### Author
+Anshuman Singh
+
+BTech CSE student
