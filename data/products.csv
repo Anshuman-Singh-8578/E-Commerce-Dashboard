@@ -1,21 +1,98 @@
 product_id,name,category,price,stock,status,brand,sku
-P001,Wireless Headphones,Electronics,2499,150,InStock,Sony,SKU-WH001
-P002,Running Shoes,Footwear,3999,80,InStock,Nike,SKU-RS002
-P003,Yoga Mat,Sports,799,200,InStock,Decathlon,SKU-YM003
-P004,Laptop Stand,Accessories,1299,60,InStock,AmazonBasics,SKU-LS004
-P005,Bluetooth Speaker,Electronics,1799,45,InStock,JBL,SKU-BS005
-P006,Cotton T-Shirt,Clothing,499,300,InStock,H&M,SKU-TS006
-P007,Stainless Steel Bottle,Kitchen,599,180,InStock,Milton,SKU-SB007
-P008,Gaming Mouse,Electronics,1199,90,InStock,Logitech,SKU-GM008
-P009,Denim Jeans,Clothing,1499,120,InStock,Levis,SKU-DJ009
-P010,Backpack,Bags,1999,75,InStock,Wildcraft,SKU-BP010
-P011,Smart Watch,Electronics,8999,18,LowStock,Samsung,SKU-SW011
-P012,Protein Powder,Health,2199,55,InStock,MuscleBlaze,SKU-PP012
-P013,Sunglasses,Accessories,999,100,InStock,Ray-Ban,SKU-SG013
-P014,Notebook Set,Stationery,299,400,InStock,Classmate,SKU-NS014
-P015,Coffee Maker,Kitchen,3499,15,LowStock,Philips,SKU-CM015
-P016,Face Wash,Beauty,349,250,InStock,Himalaya,SKU-FW016
-P017,Resistance Bands,Sports,499,160,InStock,Generic,SKU-RB017
-P018,USB-C Hub,Accessories,899,70,InStock,Anker,SKU-UH018
-P019,Formal Shirt,Clothing,1199,95,InStock,Peter England,SKU-FS019
-P020,Air Purifier,Electronics,8499,10,LowStock,Dyson,SKU-AP020
+P001,Wireless Headphones,Electronics,2204,140,InStock,Samsung,SKU-ELE001
+P002,Bluetooth Speaker,Electronics,213,346,InStock,Mi,SKU-ELE002
+P003,Gaming Mouse,Electronics,143,15,LowStock,JBL,SKU-ELE003
+P004,Smart Watch,Electronics,6139,13,LowStock,Mi,SKU-ELE004
+P005,Air Purifier,Electronics,7323,279,InStock,Anker,SKU-ELE005
+P006,Laptop Stand,Electronics,1419,414,InStock,Sony,SKU-ELE006
+P007,USB-C Hub,Electronics,826,174,InStock,Dyson,SKU-ELE007
+P008,Mechanical Keyboard,Electronics,940,52,InStock,JBL,SKU-ELE008
+P009,Webcam HD,Electronics,698,309,InStock,Dyson,SKU-ELE009
+P010,Power Bank,Electronics,5763,63,InStock,Anker,SKU-ELE010
+P011,LED Desk Lamp,Electronics,4401,316,InStock,AmazonBasics,SKU-ELE011
+P012,Noise Cancelling Earbuds,Electronics,394,23,InStock,Samsung,SKU-ELE012
+P013,Smart TV Remote,Electronics,494,443,InStock,JBL,SKU-ELE013
+P014,Portable SSD,Electronics,5714,427,InStock,AmazonBasics,SKU-ELE014
+P015,Graphics Tablet,Electronics,182,343,InStock,Dyson,SKU-ELE015
+P016,Running Shoes,Footwear,458,311,InStock,Puma,SKU-FOO016
+P017,Casual Sneakers,Footwear,372,236,InStock,Liberty,SKU-FOO017
+P018,Formal Shoes,Footwear,7637,112,InStock,Bata,SKU-FOO018
+P019,Sports Sandals,Footwear,492,412,InStock,Bata,SKU-FOO019
+P020,Hiking Boots,Footwear,304,467,InStock,Bata,SKU-FOO020
+P021,Loafers,Footwear,1842,452,InStock,Woodland,SKU-FOO021
+P022,Flip Flops,Footwear,172,381,InStock,Skechers,SKU-FOO022
+P023,Ankle Boots,Footwear,5509,204,InStock,Bata,SKU-FOO023
+P024,Yoga Mat,Sports,783,46,InStock,Decathlon,SKU-SPO024
+P025,Resistance Bands,Sports,155,405,InStock,Strauss,SKU-SPO025
+P026,Protein Shaker,Sports,1721,195,InStock,Boldfit,SKU-SPO026
+P027,Skipping Rope,Sports,4059,440,InStock,Decathlon,SKU-SPO027
+P028,Gym Gloves,Sports,2938,453,InStock,Boldfit,SKU-SPO028
+P029,Foam Roller,Sports,8296,174,InStock,Decathlon,SKU-SPO029
+P030,Pull Up Bar,Sports,1390,1,LowStock,Strauss,SKU-SPO030
+P031,Dumbbell Set,Sports,9961,390,InStock,Nivia,SKU-SPO031
+P032,Cotton T-Shirt,Clothing,9131,152,InStock,Arrow,SKU-CLO032
+P033,Denim Jeans,Clothing,177,276,InStock,H&M,SKU-CLO033
+P034,Formal Shirt,Clothing,405,57,InStock,Zara,SKU-CLO034
+P035,Hoodie,Clothing,256,449,InStock,Levi's,SKU-CLO035
+P036,Track Pants,Clothing,142,500,InStock,Peter England,SKU-CLO036
+P037,Polo Shirt,Clothing,5893,84,InStock,Van Heusen,SKU-CLO037
+P038,Chinos,Clothing,369,475,InStock,Arrow,SKU-CLO038
+P039,Shorts,Clothing,5268,332,InStock,Zara,SKU-CLO039
+P040,Kurta,Clothing,323,126,InStock,Arrow,SKU-CLO040
+P041,Jacket,Clothing,2172,283,InStock,Arrow,SKU-CLO041
+P042,Stainless Steel Bottle,Kitchen,400,362,InStock,Borosil,SKU-KIT042
+P043,Coffee Maker,Kitchen,129,440,InStock,Prestige,SKU-KIT043
+P044,Air Fryer,Kitchen,1552,342,InStock,Pigeon,SKU-KIT044
+P045,Chopper,Kitchen,3083,478,InStock,Havells,SKU-KIT045
+P046,Non-stick Pan,Kitchen,1468,413,InStock,Pigeon,SKU-KIT046
+P047,Electric Kettle,Kitchen,2794,220,InStock,Prestige,SKU-KIT047
+P048,Lunch Box,Kitchen,5825,27,InStock,Borosil,SKU-KIT048
+P049,Water Purifier,Kitchen,433,206,InStock,Borosil,SKU-KIT049
+P050,Protein Powder,Health,272,97,InStock,GNC,SKU-HEA050
+P051,Multivitamin Tablets,Health,328,142,InStock,Myprotein,SKU-HEA051
+P052,Fish Oil Capsules,Health,5630,50,InStock,MuscleBlaze,SKU-HEA052
+P053,Whey Protein,Health,432,496,InStock,MuscleBlaze,SKU-HEA053
+P054,Collagen Powder,Health,984,248,InStock,Myprotein,SKU-HEA054
+P055,Probiotic Supplement,Health,208,84,InStock,Myprotein,SKU-HEA055
+P056,Face Wash,Beauty,1299,146,InStock,Mamaearth,SKU-BEA056
+P057,Sunscreen SPF50,Beauty,8417,338,InStock,Forest Essentials,SKU-BEA057
+P058,Moisturiser,Beauty,817,111,InStock,Himalaya,SKU-BEA058
+P059,Serum Vitamin C,Beauty,2499,160,InStock,Himalaya,SKU-BEA059
+P060,Lip Balm,Beauty,5905,470,InStock,Plum,SKU-BEA060
+P061,Hair Serum,Beauty,2465,41,InStock,Plum,SKU-BEA061
+P062,Body Lotion,Beauty,194,345,InStock,Plum,SKU-BEA062
+P063,Shampoo,Beauty,2982,126,InStock,WOW,SKU-BEA063
+P064,Backpack,Bags,403,214,InStock,Fastrack,SKU-BAG064
+P065,Laptop Bag,Bags,1657,478,InStock,American Tourister,SKU-BAG065
+P066,Tote Bag,Bags,1871,122,InStock,American Tourister,SKU-BAG066
+P067,Duffel Bag,Bags,7502,153,InStock,Safari,SKU-BAG067
+P068,Waist Bag,Bags,648,318,InStock,Puma,SKU-BAG068
+P069,Travel Bag,Bags,150,259,InStock,American Tourister,SKU-BAG069
+P070,Notebook Set,Stationery,166,450,InStock,Faber-Castell,SKU-STA070
+P071,Gel Pen Set,Stationery,1083,426,InStock,Camlin,SKU-STA071
+P072,Highlighter Pack,Stationery,7010,270,InStock,Classmate,SKU-STA072
+P073,Sticky Notes,Stationery,4452,53,InStock,Faber-Castell,SKU-STA073
+P074,Planner,Stationery,234,380,InStock,Camlin,SKU-STA074
+P075,Sketch Pens,Stationery,4308,107,InStock,Staedtler,SKU-STA075
+P076,Index Cards,Stationery,7631,436,InStock,Luxor,SKU-STA076
+P077,Fairy Lights,Home Decor,357,47,InStock,Craftsvilla,SKU-HOM077
+P078,Wall Clock,Home Decor,315,170,InStock,Pepperfry,SKU-HOM078
+P079,Photo Frame,Home Decor,3323,226,InStock,Fabindia,SKU-HOM079
+P080,Scented Candle,Home Decor,460,57,InStock,Ikea,SKU-HOM080
+P081,Cushion Cover,Home Decor,452,427,InStock,HomeTown,SKU-HOM081
+P082,Table Lamp,Home Decor,1631,65,InStock,Ikea,SKU-HOM082
+P083,Doormat,Home Decor,256,460,InStock,HomeTown,SKU-HOM083
+P084,Artificial Plant,Home Decor,4044,52,InStock,HomeTown,SKU-HOM084
+P085,Self Help Book,Books,1646,498,InStock,Scholastic,SKU-BOO085
+P086,Python Programming,Books,482,442,InStock,Harper Collins,SKU-BOO086
+P087,Data Science Guide,Books,189,377,InStock,Rupa,SKU-BOO087
+P088,Fiction Novel,Books,8571,442,InStock,Oxford,SKU-BOO088
+P089,Business Strategy,Books,3304,55,InStock,Westland,SKU-BOO089
+P090,Cookbook,Books,118,418,InStock,Westland,SKU-BOO090
+P091,Lego Set,Toys,278,114,InStock,Lego,SKU-TOY091
+P092,Puzzle 1000pc,Toys,895,142,InStock,Lego,SKU-TOY092
+P093,RC Car,Toys,4876,260,InStock,Mattel,SKU-TOY093
+P094,Board Game,Toys,446,59,InStock,Hasbro,SKU-TOY094
+P095,Rubik Cube,Toys,1689,19,LowStock,Lego,SKU-TOY095
+P096,Action Figure,Toys,4831,402,InStock,Hasbro,SKU-TOY096
+P097,Building Blocks,Toys,322,197,InStock,Toyzone,SKU-TOY097
