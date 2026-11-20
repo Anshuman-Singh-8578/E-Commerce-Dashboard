@@ -1,0 +1,21 @@
+product_id,name,category,price,stock,status,brand,sku
+P001,Wireless Headphones,Electronics,2499,150,InStock,Sony,SKU-WH001
+P002,Running Shoes,Footwear,3999,80,InStock,Nike,SKU-RS002
+P003,Yoga Mat,Sports,799,200,InStock,Decathlon,SKU-YM003
+P004,Laptop Stand,Accessories,1299,60,InStock,AmazonBasics,SKU-LS004
+P005,Bluetooth Speaker,Electronics,1799,45,InStock,JBL,SKU-BS005
+P006,Cotton T-Shirt,Clothing,499,300,InStock,H&M,SKU-TS006
+P007,Stainless Steel Bottle,Kitchen,599,180,InStock,Milton,SKU-SB007
+P008,Gaming Mouse,Electronics,1199,90,InStock,Logitech,SKU-GM008
+P009,Denim Jeans,Clothing,1499,120,InStock,Levis,SKU-DJ009
+P010,Backpack,Bags,1999,75,InStock,Wildcraft,SKU-BP010
+P011,Smart Watch,Electronics,8999,18,LowStock,Samsung,SKU-SW011
+P012,Protein Powder,Health,2199,55,InStock,MuscleBlaze,SKU-PP012
+P013,Sunglasses,Accessories,999,100,InStock,Ray-Ban,SKU-SG013
+P014,Notebook Set,Stationery,299,400,InStock,Classmate,SKU-NS014
+P015,Coffee Maker,Kitchen,3499,15,LowStock,Philips,SKU-CM015
+P016,Face Wash,Beauty,349,250,InStock,Himalaya,SKU-FW016
+P017,Resistance Bands,Sports,499,160,InStock,Generic,SKU-RB017
+P018,USB-C Hub,Accessories,899,70,InStock,Anker,SKU-UH018
+P019,Formal Shirt,Clothing,1199,95,InStock,Peter England,SKU-FS019
+P020,Air Purifier,Electronics,8499,10,LowStock,Dyson,SKU-AP020
